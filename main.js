@@ -30,7 +30,7 @@
   (function() {
     'use strinct';
 
-    something
+    var ref = 
 
   }());
 
