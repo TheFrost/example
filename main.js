@@ -23,3 +23,15 @@
 //   window.Module = Module.init();
 //
 // }());
+
+(function() {
+  'use strinct';
+
+  (function() {
+    'use strinct';
+
+
+
+  }());
+
+}());
